@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @j-orling
+- 👋 Hi, I’m Josefin.
 - 👀 I’m interested in programming, PC games, and music.
-- 🌱 I’m currently learning various stuff required for my computer science degree.
-- 💞️ I’m looking to collaborate on something that will make me actually l i k e programming.
-- 📫 How to reach me: DM me, or follow me on instagram @josefinorling.
+- 🌱 I’m currently trying to get a degree in computer science.
+- 📫 How to reach me: email me at jog20004@student.mdu.se
 
 <!---
 j-orling/j-orling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
